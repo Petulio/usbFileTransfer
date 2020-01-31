@@ -88,7 +88,7 @@ The python script can be developed in several different IDE's and OS's. My scrip
 ```
 /Home/Pi/<python_script>.py
 ```
-* [Link to my script]()
+* [Link to my script](https://github.com/Petulio/usbFileTransfer/blob/master/copy_from_usb.py)
 
 # SFTP
 ### SHH
